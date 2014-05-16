@@ -31,10 +31,8 @@
 
 #import <Foundation/Foundation.h>
 
-int main(int argc, const char * argv[])
-{
-  @autoreleasepool
-  {
+int main(int argc, const char * argv[]) {
+  @autoreleasepool {
     NSLog(@"Hello, World!");
     
     // Display the current date, formatted nicely
