@@ -33,7 +33,7 @@
 
 int main(int argc, const char * argv[]) {
   @autoreleasepool {
-    NSLog(@"Hello, World!");
+    NSLog(@"Hello, World, Welcome to Pro Objective-C!");
     
     // Display the current date, formatted nicely
     NSDate *dateTime = [NSDate date];
